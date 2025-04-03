@@ -7,7 +7,7 @@ const About = () => {
         About Me
       </h2>
       <p className="text-lg text-center max-w-4xl mx-auto">
-        I'm Zainab Murtaza, a dedicated and creative web developer with a strong background in building responsive and interactive web and mobile applications. I strive to deliver seamless user experiences and visually stunning digital solutions.
+        I&apos;m Zainab Murtaza, a dedicated and creative web developer with a strong background in building responsive and interactive web and mobile applications. I strive to deliver seamless user experiences and visually stunning digital solutions.
       </p>
     </section>
   );
